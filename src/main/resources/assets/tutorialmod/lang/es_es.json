@@ -3,7 +3,12 @@
   "item.tutorialmod.raw_sapphire": "Zafiro en bruto",
 
   "block.tutorialmod.sapphire_block": "Bloque de Zafiro",
-  "block.tutorialmod.raw_sapphire_block": "Mena de Zafiro",
+  "block.tutorialmod.raw_sapphire_block": "Bloque de Zafiro en bruto",
+
+  "block.tutorialmod.sapphire_ore": "Mena de Zafiro",
+  "block.tutorialmod.deepslate_sapphire_ore": "Mena de Zafiro de Pizarra Profunda",
+  "block.tutorialmod.nether_sapphire_ore": "Mena de Zafiro de Netherrack",
+  "block.tutorialmod.end_stone_sapphire_ore": "Mena de Zafiro de Piedra de Fin",
 
   "creativetab.tutorial_tab": "Pestaña de tutorial de Zafiro"
 }
